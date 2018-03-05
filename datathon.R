@@ -2,8 +2,8 @@ library(httr)
 
 args = list(
   grant_type    = 'client_credentials',
-  client_id     = 'd7a76e446c0846a2b5eb1cbffce3f50a',
-  client_secret = 'dcaad73af8aa4f578a623eacbdd17cb6db952a65e0929eb55826982bebc08c10',
+  client_id     = '**',
+  client_secret = '**',
   scope         = 'read_content read_financial_data read_product_data read_user_profile'
 );
 
